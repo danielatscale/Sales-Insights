@@ -1,4 +1,4 @@
-unique_name: Estimated Customer Count-Order Retail445-30PrdMvAvgPrevYear
+unique_name: Est Customer Count-Order Retail445-30PrdMvAvgPrevYear
 object_type: metric_calc
 label: Estimated Customer Count-Order Retail445-30PrdMvAvgPrevYear
 description: "Prev Year's 30 Period Moving  Average of Sales. Use on the [Order Retail445]\
